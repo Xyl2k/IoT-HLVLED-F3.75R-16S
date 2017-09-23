@@ -1,0 +1,9 @@
+.statusMsg{font-size: 16px;color:#fff;}
+.statusMsg.success{color:#00a78e;}
+.statusMsg.error{color:#DD4B39;}
+.inputErr{
+	color: #fff;
+    font-size: 14px;
+    text-align: left;
+    padding-bottom: 10px;
+}
